@@ -20,7 +20,7 @@
 </p>
 <br />
 <br />
-<h3>Task 2: Configuring sites:</h3>  
+<h3>Task 2: Configuring sites</h3>  
 <br /> 
 <p align="center">
 <img src="https://i.imgur.com/XzESrPd.png" height="80%" width="80%" alt="max"/>
