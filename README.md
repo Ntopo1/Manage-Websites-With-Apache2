@@ -9,8 +9,7 @@
     <li><b>Apache2</b> -Web server software for hosting websites</li>
 </ul>
 <br />
-<h3>Task 1:</h3>
-<p> Install Apache</p> 
+<h3>Task 1: Install Apache</h3>
 <p align="center">
 <img src="https://i.imgur.com/puRfMrt.png" height="80%" width="80%" alt="pre debug"/>
 </p>
@@ -21,8 +20,7 @@
 </p>
 <br />
 <br />
-<h3>Task 2:</h3> 
-<p>Configuring sites:</p> 
+<h3>Task 2: Configuring sites:</h3>  
 <br /> 
 <p align="center">
 <img src="https://i.imgur.com/XzESrPd.png" height="80%" width="80%" alt="max"/>
@@ -35,8 +33,7 @@
 <p align="left"> I then enable the configuration file and reload the program to have Apache2 reread the config updates.</p>
 <br /> 
 <br />
-<h3>Task 3:</h3>
-<p> Additional configuration:</p> 
+<h3>Task 3: Additional configurations</h3>
 <p align="center">
 <img src="https://i.imgur.com/Ljn5Qyb.png" height="80%" width="80%" alt="calc"/>
 </p>
